@@ -1,0 +1,4 @@
+C:/Users/Zik/CLionProjects/delenie/cmake-build-debug/CMakeFiles/delenie.dir
+C:/Users/Zik/CLionProjects/delenie/cmake-build-debug/CMakeFiles/popa.dir
+C:/Users/Zik/CLionProjects/delenie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zik/CLionProjects/delenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
